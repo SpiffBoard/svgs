@@ -1,0 +1,9 @@
+<svg class="
+        logo
+        logo--symbol
+        block
+        mx-auto
+        md:scale-[2.1] md:origin-[50%_100%] md:-translate-y-[100%] max-md:w-[1.09rem] max-md:h-[1.5rem]
+      " width="22" height="30" viewBox="0 0 22 30" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+    <path d="m22 0-7.33 7.2v7.13H7.33V7.2L0 0v30h7.33v-8.47h7.33V30h7.33V0Z" fill="currentColor" fill-rule="evenodd"></path>
+  </svg>
